@@ -1,3 +1,5 @@
+package adapter;
+
 // あらかじめ提供されているクラス
 public class Banner {
     private String string;

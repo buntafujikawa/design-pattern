@@ -1,3 +1,5 @@
+package bridge;
+
 // Displayクラスに機能を追加したもの
 public class CountDisplay extends Display {
     public CountDisplay(DisplayImpl impl) {

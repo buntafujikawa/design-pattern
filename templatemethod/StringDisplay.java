@@ -1,3 +1,5 @@
+package templatemethod;
+
 public class StringDisplay extends AbstractDisplay {
     private String string;
     private int width;
@@ -22,7 +24,7 @@ public class StringDisplay extends AbstractDisplay {
     private void printLine() {
         System.out.print("+");
         for (int i = 0; i < width; i++) {
-            System.out.print("-")
+            System.out.print("-");
         }
         System.out.println("+");
     }

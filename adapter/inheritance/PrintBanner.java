@@ -1,6 +1,10 @@
+package adapter.inheritance;
+
+import adapter.Banner;
+
 // アダプターの役割
 public class PrintBanner extends Banner implements Print {
-    public printBanner(String string) {
+    public PrintBanner(String string) {
         super(string);
     }
 

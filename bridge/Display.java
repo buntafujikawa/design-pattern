@@ -1,3 +1,5 @@
+package bridge;
+
 // 表示するクラス(機能のクラス階層の最上位)
 public class Display {
     private DisplayImpl impl;

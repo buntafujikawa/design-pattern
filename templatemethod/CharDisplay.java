@@ -1,3 +1,5 @@
+package templatemethod;
+
 public class CharDisplay extends AbstractDisplay {
     private char ch;
 

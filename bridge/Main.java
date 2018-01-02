@@ -1,3 +1,5 @@
+package bridge;
+
 // 4つのクラスを組み合わせて文字列の表示を行う
 public class Main {
     public static void main(String[] args) {

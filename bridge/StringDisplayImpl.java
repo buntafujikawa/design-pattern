@@ -1,3 +1,5 @@
+package bridge;
+
 // 文字列を表示するクラス
 public class StringDisplayImpl extends DisplayImpl {
     private String string;
@@ -23,7 +25,7 @@ public class StringDisplayImpl extends DisplayImpl {
     private void printLine() {
         System.out.print("+");
         for (int i = 0; i < width; i++) {
-            System.out.print("-")
+            System.out.print("-");
         }
         System.out.println("+");
     }

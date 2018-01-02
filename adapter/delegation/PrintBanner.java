@@ -1,8 +1,12 @@
+package adapter.delegation;
+
+import adapter.Banner;
+
 // アダプターの役割
 public class PrintBanner extends Print {
     private Banner banner;
 
-    public printBanner(String string) {
+    public PrintBanner(String string) {
         this.banner = new Banner(string);
     }
 
