@@ -9,7 +9,8 @@ BookShelfIteratorクラス
 - Aggregate(集合体)の役  
 Aggregateインターフェース
 - ConcreateAggregate(具体的な集合体)の役  
-BookSheflクラス
+BookShelfクラス
 
 ## クラス図
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Iterator_UML_class_diagram.svg/500px-Iterator_UML_class_diagram.svg.png)
+![iterator](https://user-images.githubusercontent.com/11749585/34566114-c0d5b664-f1a0-11e7-8925-699f100cccf0.jpg)
+
